@@ -1,5 +1,5 @@
 {% include navigation.html %}
 
-# About
+# Notes
 
 <div> test </div>
