@@ -8,12 +8,10 @@
 ## TT0
 ### Menu
 ````
-WIP
-
 # menuy.py - function style menu
 # Imports typically listed at top
 # each import enables us to use logic that has been abstracted to other files and folders
-
+import Animation
 
 # Main list of [Prompts, Actions]
 # Two styles are supported to execute abstracted logic
@@ -23,7 +21,7 @@ main_menu = [
     ["Swap", "Swap.py"],
     ["Matrix", "Matrix.py"], 
     ["Tree", "Tree.py"],
-    ["Animation", "Animation.py"],
+    ["Animation", Animation.ship],
 ]
 
 # Submenu list of [Prompt, Action]
