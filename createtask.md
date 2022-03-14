@@ -8,6 +8,24 @@
 * At least one algorithm
 
 ## Idea:
+### Simon Says in our "Our Games" tab
+Using Javascript
+
+Input: User repeats selected colors after computer randomly generates color
+
+Output: If the selected color is correct player gets a point and a new color is generated
+
+List: The four different colors chosen at random will be stored inside a list (Red, Yellow, Blue, Green)
+
+Procedure: If the user gets the color right, the user gains 1 point. If the user gets color wrong, the game ends. There is also a procedure to generate and add a random color to the line of color to be repeated.
+
+Algorithm)
+
+Sequencing: First, code generates random color, next it awaits user input to repeat the randomly generated color, then it adds a random color
+
+Selection: If user repeated the colors perfectly, add new random color. Else games ends
+
+Iteration: Repeats the previous colors before adding a new random one.
 
 ## Video
 We will submit a video that is:
