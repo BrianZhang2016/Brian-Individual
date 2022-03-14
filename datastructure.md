@@ -116,25 +116,16 @@ if __name__ == "__main__":
 ````
 ### Tree
 ````
-print("Christmas Tree")
-#tree
-tree = [("        ","*"," "),
-        ("       ","* *"," "),
-        ("      ","* * *"," "),
-        ("     ","* * * *"," "),
-        ("    ","* * * * *"," "),
-        ("   ","* * * * * *"," "),
-        ("  ","* * * * * * *"," "),
-        (" ","* * * * * * * *"," "),
-        ("","* * * * * * * * *"," "),
-        ("       ","***"," "),
-        ("       ","***"," "),
-        ("       ","***"," "),
-  ]
-for x in tree:
-    for y in x:
-        print(y, end = " ")
-    print()
+
+def tree(x):
+    print("\n".join([f"{'*'*(2* n + 1):^{2*x+1}}" for n in range(x)]))
+def trunk(n):
+      for i in range(n):
+        for j in range(n-1):
+            print('   ', end=' ')
+        print('***')
+tree(9)
+trunk(3)
 ````
 ### Animation
 ````
