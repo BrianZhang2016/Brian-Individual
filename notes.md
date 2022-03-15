@@ -33,3 +33,7 @@ They are many ways people could empower themselves on the internet. An example o
 A way someone who's empowered could help someone who isn't could be that they educate them. For example, they could write a book or just teach them through lectures. A way I could do this at Del Norte HS is to gain some knowledge on certain information and spread them to other people. 
 
 There is definitely red tape preventing digital empowerment, such as access to the internet, access to technology, etc. There is even red tape at Del Norte HS such as website restrictions. Red tape is practically everywhere as it's definition is "Blockage or regulation"
+
+## TPT 1.0 Computing Bias 5.3
+
+
