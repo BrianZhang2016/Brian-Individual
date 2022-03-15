@@ -35,5 +35,17 @@ A way someone who's empowered could help someone who isn't could be that they ed
 There is definitely red tape preventing digital empowerment, such as access to the internet, access to technology, etc. There is even red tape at Del Norte HS such as website restrictions. Red tape is practically everywhere as it's definition is "Blockage or regulation"
 
 ## TPT 1.0 Computing Bias 5.3
+Explicit Data
+* Thumbs
+* Name, Address, etc.
+
+Implicit Data
+* When you watch
+* What you binge(d)
+* Style of show frequently selected
+
+Bias
+* Netflix exclusives are featured ahead of most
+* Subscriptions
 
 
