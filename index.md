@@ -1,5 +1,11 @@
 {% include navigation.html %}
 
+<div id="video_wrapper">
+  <video autoplay loop>
+    <source src="https://user-images.githubusercontent.com/89234480/158678121-b5ee0aa1-7bce-4960-959c-94910c43bc99.gif" type="video/mp4">
+  </video>
+</div>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/BrianZhang2016/Brian-Individual/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
