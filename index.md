@@ -1,15 +1,4 @@
 {% include navigation.html %}
-<div id="video_wrapper">
-  <video autoplay loop>
-    <source src="https://user-images.githubusercontent.com/89234480/158682465-ddb2d6d9-41a1-4b60-a04f-8a7a11f800b7.gif" type="video/mp4">
-  </video>
-</div>
-
-<div id="video_wrapper">
-  <video autoplay loop>
-    <source src="https://user-images.githubusercontent.com/89234480/158678121-b5ee0aa1-7bce-4960-959c-94910c43bc99.gif" type="video/mp4">
-  </video>
-</div>
 
 ## Welcome to GitHub Pages
 
