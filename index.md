@@ -1,7 +1,7 @@
 {% include navigation.html %}
 <div id="video_wrapper">
   <video autoplay loop>
-    <source src="https://drive.google.com/uc?export=view&id=1Qote5m--Bme0bE4_o6wAKNRxWY8pJnuL" type="video/mp4">
+    <source src="https://user-images.githubusercontent.com/89234480/158682465-ddb2d6d9-41a1-4b60-a04f-8a7a11f800b7.gif" type="video/mp4">
   </video>
 </div>
 
