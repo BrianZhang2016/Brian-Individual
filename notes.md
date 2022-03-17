@@ -53,8 +53,13 @@ Computers aren't Bias, on;y the people who program it are.
 * Facebook more towards adults
 * Tiktok more towards children
 
+### Github Actions
+
+
+
 ## TPT 1.1 Crowdsourcing 5.4
 Crowd Sourcing: Gaining opinions from many people
 
 Wikipedia can have many people's opinion on the website.
 
+### Github Actions
