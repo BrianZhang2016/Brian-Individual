@@ -38,8 +38,13 @@ We will submit a video that is:
 
 Video here:
 
+[Brian Zhang](https://youtu.be/xbqabzno7XA)
+
+
 ## Written Response
 Response to prompts 3a-3d
 
 Responses here:
+
+[Brian Zhang](https://github.com/BrianZhang2016/067/wiki/Create-Task-Written-Responses-Brian-Zhang)
 
