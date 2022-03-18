@@ -1,4 +1,4 @@
-# Week 0 5.1 and 5.2
+# Week 0: 5.1 and 5.2
 
 ## TPT 0.1 related to Beneficial and Harmful Effects of Computing Big Idea 5.1
 Drones: Beneficial: can deliver things. Harmful: can used to spy on people (Trespass private property) 
