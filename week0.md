@@ -1,3 +1,5 @@
+{% include weeks.html %}
+
 # Week 0: 5.1 and 5.2
 
 ## TPT 0.1 related to Beneficial and Harmful Effects of Computing Big Idea 5.1
