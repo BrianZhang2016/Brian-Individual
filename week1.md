@@ -1,3 +1,5 @@
+{% include navigation.html %}
+
 # Week 1: 5.3 and 5.4
 
 # Weeks
