@@ -1,7 +1,7 @@
 {% include navigation.html %}
 
 # Weeks
-
+<div>
 <table>
     <tr>
         <td><a href="week0">Week 0</a></td>
@@ -9,7 +9,7 @@
     </tr>
 </table>
 <hr>
-
+</div>
 
 ## TPT 0.1 related to Beneficial and Harmful Effects of Computing Big Idea 5.1
 Drones: Beneficial: can deliver things. Harmful: can used to spy on people (Trespass private property) 
