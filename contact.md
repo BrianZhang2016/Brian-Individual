@@ -1,5 +1,5 @@
 {% include navigation.html %}
 
-# Contact Us!
+# Contact Me!
 
 ## Brian Zhang: brianzhang2016@gmail.com
