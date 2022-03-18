@@ -24,21 +24,6 @@ main_menu = [
     ["Animation", Animation.ship],
 ]
 
-# Submenu list of [Prompt, Action]
-# Works similarly to main_menu
-sub_menu = [
-    ["Factors", None],
-    ["GCD", None],
-    ["LCM", None],
-    ["Primes", None],
-]
-
-random_sub_menu = [
-    ["Random1", None],
-    ["Random2", None],
-    ["Random3", None],
-]
-
 # Menu banner is typically defined by menu owner
 border = "=" * 25
 banner = f"\n{border}\nPlease Select An Option\n{border}"
@@ -52,16 +37,6 @@ def menu():
     title = "Function Menu" + banner
     menu_list = main_menu.copy()
     buildMenu(title, menu_list)
-
-# def submenu
-# using sub menu list above:
-# sub_menu works similarly to menu()
-def submenu():
-    title = "Function Submenu" + banner
-    buildMenu(title, sub_menu)
-def Random_submenu():
-    title = "Function Submenu" + banner
-    buildMenu(title, random_sub_menu)
 
 def buildMenu(banner, options):
     # header for menu
