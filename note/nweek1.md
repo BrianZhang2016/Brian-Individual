@@ -3,7 +3,7 @@
 # Week 1: 5.3 and 5.4
 
 # Weeks
-{% include weeks.html %}
+{% include nweeks.html %}
 
 ## TPT 1.0 Computing Bias 5.3
 Explicit Data
