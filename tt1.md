@@ -7,7 +7,7 @@
 {% include tt.html %}
 
 ### List Elements with embedded Dictionary
-```
+````
 InfoDb = []
 # List with dictionary records placed in a list  
 InfoDb.append({  
@@ -32,10 +32,10 @@ def print_data(n):
     print("\t", "Favorite_Colors: ", end="")  # \t is a tab indent, end="" make sure no return occurs
     print(", ".join(InfoDb[n]["Favorite_Colors"]))  # join allows printing a string list with separator
     print()
-```    
+````    
 
 ### Recursion
-```
+````
 def for_loop():
   for n in range(len(InfoDb)):
       print_data(n)
@@ -84,10 +84,10 @@ def factorial():
       print("The factorial of", num, "is", recur_factorial(num))
 
 # Hack 3: Fibonacci.  Write a recursive program to create a fibonacci sequence including error handling(with try/except) for invalid input
-```
+````
 
 ### Fibonacci
-```
+````
 def fibonacci(n):  
   if n < 0:
     print("Please enter a positive integer")
@@ -111,4 +111,4 @@ def output_fibonacci():
      for i in range(nterms):
          print(fibonacci(i), end=" ")
   print()
-```
+````
