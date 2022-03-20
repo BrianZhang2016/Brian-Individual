@@ -33,7 +33,6 @@ def print_data(n):
     print(", ".join(InfoDb[n]["Favorite_Colors"]))  # join allows printing a string list with separator
     print()
 ````    
-
 ### Recursion
 ````
 def for_loop():
@@ -85,7 +84,6 @@ def factorial():
 
 # Hack 3: Fibonacci.  Write a recursive program to create a fibonacci sequence including error handling(with try/except) for invalid input
 ````
-
 ### Fibonacci
 ````
 def fibonacci(n):  
