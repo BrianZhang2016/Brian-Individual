@@ -146,5 +146,3 @@ def ship():
       time.sleep(.1)
 
 ````
-
-## [Back to Top](#Tech-Talks)
