@@ -6,6 +6,3 @@
 
 {% include tt.html %}
 
-
-
-## [Back to Top](Tech-Talks)
