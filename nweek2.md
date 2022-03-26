@@ -17,6 +17,15 @@ Licence: could be free or restricted to make money off of it. (Talk to sponsor a
 * GPL Licence: If copied thing is free, what you release off the copy has to be free
 
 ### Github Page Action
+MIT Licence:
+* Anyone could edit software
+* Commercial Use
+* Distributes closed code versions
+* Creater of code has no responsibility on what others do to it
+
+GPL Licence:
+* 
+
 
 ## TPT 2.0 Safe Computing 5.6
 This that can go wrong with computing:
