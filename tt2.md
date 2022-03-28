@@ -67,10 +67,11 @@ def week1_func():
 def week2_func():
   title = "Week 2" + banner
   buildMenu(title, week2_list)
-  ````
+````
   
-  ### Factorial OOP
-  ````
+### Factorial OOP
+ 
+````
   class Factorial: 
   def __init__(self):
     self.factSeq = [0, 1]
@@ -89,10 +90,11 @@ def OOP():
       print("Sorry, factorial does not exist for negative numbers.")
   else:
       print("The factorial of", num_input, "is", factorial_of(num_input))
-  ````
+````
   
-  ### Math Function
-  ````
+### Math Function
+
+````
   class Add:
 
     def findsum(self, a, b):
@@ -106,10 +108,11 @@ obj = Add()
 s = obj.findsum(a, b)
 
 print("Sum is:", s)
-  ````
+````
   
-  ### Palindrome 
-  ````
+### Palindrome 
+
+````
   class palindrome:
     def palindrome(self, string):
         if string == string[::-1]:
@@ -127,5 +130,5 @@ while n == 1:
 
     print(string, f)
     n = int(input("Press 1 to Try Again!  "))
-  ````
+````
   
