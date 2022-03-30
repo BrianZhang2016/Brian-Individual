@@ -2,8 +2,6 @@
 
 # Week 2: 5.5 and 5.6
 
-I LOVE BRIAN ZHANG !!!
-
 # Weeks
 
 {% include nweeks.html %}
