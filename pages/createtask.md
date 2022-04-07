@@ -46,5 +46,5 @@ Response to prompts 3a-3d
 
 Responses here:
 
-[Brian Zhang](https://github.com/BrianZhang2016/067/wiki/Create-Task-Written-Responses-Brian-Zhang)
+<a href="https://brianzhang2016.github.io/Brian-Individual/pages/writtenresponse">Brian Zhang</a>
 
