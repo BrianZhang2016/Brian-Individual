@@ -1,3 +1,5 @@
+{% include navigation.html %}
+
 ## 3a)
 ### i. Describes the overall purpose of the program
 The purpose of this program was to add a fun little game onto our "Our Games" tab for our website
