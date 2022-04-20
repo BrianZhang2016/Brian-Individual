@@ -12,7 +12,7 @@
 
 ### <span style="color: red"> Tuesday: Proctored AP Exam Day 1 - Multiple Choices (Quiz 1) </span>
 
-### <span style="color: red"> Wednesday: Corrections on Quiz 1 Multiple Choice </span>
+### <span style="color: red"> Wednesday: Corrections on Quiz 1 Multiple Choice and Study for Quiz 2 </span>
 
 ### <span style="color: red"> Thursday: Proctored AP Exam Day 2 - Free Response Questions (Quiz 2) </span>
 
