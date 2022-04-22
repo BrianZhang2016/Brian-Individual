@@ -28,3 +28,4 @@ I thought the new system wouldn't need the callers phone number in order to oppe
 
 <img width="751" alt="Screen Shot 2022-04-22 at 14 09 55" src="https://user-images.githubusercontent.com/89234480/164793900-6a31cdcc-861c-4a2e-8e00-5a8da3621e81.png">
 
+I thought an internet is a data stream as it's where data flows through the internet.
