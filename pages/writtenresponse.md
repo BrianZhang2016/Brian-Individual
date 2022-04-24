@@ -75,7 +75,7 @@ Selection:
             }
         } else {
             //end game
-            alert("Game Over");
+            alert("Game Over (Restart Page to Startover)");
         }
     };
 ````
@@ -163,7 +163,7 @@ Second call:
             }
         } else {
             //end game
-            alert("Game Over");
+            alert("Game Over (Restart Page to Startover)");
         }
     };
 ````
