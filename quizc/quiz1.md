@@ -6,6 +6,12 @@
 
 {% include quizzes.html %}
 
+# Score
+
+![image](https://user-images.githubusercontent.com/89234480/164991333-192c97b5-4a4b-42b0-9330-1186f2aa0869.png)
+
+# Corrections
+
 ## Question 1
 
 <img width="801" alt="Screen Shot 2022-04-22 at 13 42 50" src="https://user-images.githubusercontent.com/89234480/164790847-2a9db985-dd7d-47a7-9e21-5e8eadb25611.png">
