@@ -38,7 +38,7 @@ We will submit a video that is:
 
 Video here:
 
-[Brian Zhang](https://youtu.be/xbqabzno7XA)
+[Brian Zhang](https://youtu.be/jGkb2ZCWXPY)
 
 
 ## Written Response
