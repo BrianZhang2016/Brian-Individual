@@ -6,6 +6,12 @@
 
 {% include quizzes.html %}
 
+# Score
+
+![image](https://user-images.githubusercontent.com/89234480/164991373-a0e31169-d1b2-4776-96a8-7010d221bcfb.png)
+
+# Corrections
+
 ## Question 1
 
 ![image](https://user-images.githubusercontent.com/89234480/164989465-132e2000-1c59-4112-8732-38f2a3c687e5.png)
