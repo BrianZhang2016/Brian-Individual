@@ -6,7 +6,7 @@
 
 {% include quizzes.html %}
 
-# Score
+# Score 41/50
 
 ![image](https://user-images.githubusercontent.com/89234480/164991333-192c97b5-4a4b-42b0-9330-1186f2aa0869.png)
 
