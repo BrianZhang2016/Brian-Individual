@@ -17,3 +17,15 @@
 ### <span style="color: red"> Thursday: Proctored AP Exam Day 2 - Free Response Questions (Quiz 2) </span>
 
 ### <span style="color: red"> Friday: Corrections on Quiz 2 Free Response Questions </span>
+
+# Week 2 (Units 1-5)
+
+### <span style="color: red"> Monday: Live Review Previous Week, Create Study Plan, and decide of ASI Presentation</span>
+
+### <span style="color: red"> Tuesday: Proctored AP Exam Day 3 - Multiple Choices (Quiz 3) </span>
+
+### <span style="color: red"> Wednesday: Corrections on Quiz 3 Multiple Choice </span>
+
+### <span style="color: red"> Thursday: Create Task Review and Study Hall </span>
+
+### <span style="color: red"> Friday: ASI Presentation </span>
