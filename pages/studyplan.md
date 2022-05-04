@@ -29,3 +29,16 @@
 ### <span style="color: red"> Thursday: Create Task Review and Study Hall </span>
 
 ### <span style="color: red"> Friday: ASI Presentation </span>
+
+# Week 5 (Units 1-5)
+
+### <span style="color: red"> Monday: Create Task review day, finalize create task after goign over again and submit fully </span>
+
+### <span style="color: red"> Tuesday: Crossover grading, Study Hall </span>
+
+### <span style="color: red"> Wednesday: Proctored AP Exam Day 4 - Multiple Choices (Quiz 4) </span>
+
+### <span style="color: red"> Thursday: Corrections on Quiz 4 Multiple Choice </span>
+
+### <span style="color: red"> Friday: Crossover Grading </span>
+
